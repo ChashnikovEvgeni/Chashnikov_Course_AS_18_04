@@ -1,0 +1,3 @@
+C:/Users/Дом Ч/Desktop/3-ий курс 6-ой семестр/Компьютерная графика/computer-graphics-main/OpenGL/2021-opengl/gl_base_sample_2020/out/build/x64-Debug/CMakeFiles/gl_base_sample_2020.dir
+C:/Users/Дом Ч/Desktop/3-ий курс 6-ой семестр/Компьютерная графика/computer-graphics-main/OpenGL/2021-opengl/gl_base_sample_2020/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Дом Ч/Desktop/3-ий курс 6-ой семестр/Компьютерная графика/computer-graphics-main/OpenGL/2021-opengl/gl_base_sample_2020/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
